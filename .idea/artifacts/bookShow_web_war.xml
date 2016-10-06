@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="bookShow-web:war">
+    <output-path>$PROJECT_DIR$/bookShow-web/target</output-path>
+    <root id="archive" name="bookShow-web-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="bookShow-web:war exploded" />
+    </root>
+  </artifact>
+</component>

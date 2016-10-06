@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="bookShow-web:war exploded">
+    <output-path>$PROJECT_DIR$/bookShow-web/target/bookShow-web-1.0-SNAPSHOT</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="bookShow-web" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="C:\Users\Administrator\IdeaProjects\bookShow1.0\bookShow-web\target/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="bookShow-web/web/Web" />
+    </root>
+  </artifact>
+</component>
